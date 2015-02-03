@@ -1,0 +1,20 @@
+{
+  "subtitle": "Pregnancy Nepali", 
+  "uuid": "14a1068c57294224b68f4da15e0fbc15", 
+  "language": "nep_NP", 
+  "title": "\u0917\u0930\u094d\u092d\u093e\u0935\u0938\u094d\u0925\u093e", 
+  "image": null, 
+  "_version": {
+    "package_version": "0.3.3", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "slug": "Pregnancy_Nepali", 
+  "source": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "featured_in_navbar": true, 
+  "id": null
+}
