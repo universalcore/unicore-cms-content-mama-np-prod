@@ -3,15 +3,15 @@
   "description": "\u0924\u092a\u093e\u0908\u0902\u0915\u094b \u092c\u091a\u094d\u091a\u093e\u0932\u093e\u0908 \u0920\u094b\u0938 \u0916\u093e\u0928\u0947\u0915\u0941\u0930\u093e\u0939\u0930\u0942 \u0916\u0941\u0935\u093e\u0909\u0928\u0941\u0939\u094b\u0938\u094d", 
   "language": "nep_NP", 
   "title": "6 \u092e\u0939\u093f\u0928\u093e", 
-  "primary_category": "4eafe002ebea4c7a97a7743183f70de1", 
+  "primary_category": "1610d0d018e7486491cf570ef7429e69", 
   "created_at": "2015-01-28T12:15:40+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-02-03T10:14:01.472568+00:00", 
+  "modified_at": "2015-02-03T10:14:16.475698+00:00", 
   "_version": {
     "package_version": "0.3.3", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
