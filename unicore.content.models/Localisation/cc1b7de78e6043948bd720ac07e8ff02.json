@@ -1,13 +1,17 @@
 {
+  "uuid": "cc1b7de78e6043948bd720ac07e8ff02", 
+  "logo_image_host": "http://thumbor.unicore.io", 
   "locale": "nep_NP", 
   "image": null, 
-  "image_host": "http://thumbor.unicore.io", 
+  "logo_text": "\u0935\u093f\u0936\u0947\u0937\u091c\u094d\u091e \u0930 \u0905\u092d\u093f\u092d\u093e\u0935\u0915\u0939\u0930\u0942\u092c\u093e\u091f \u0938\u0941\u091d\u093e\u0935", 
+  "logo_image": null, 
   "_version": {
     "package_version": "0.3.3", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "uuid": "cc1b7de78e6043948bd720ac07e8ff02"
+  "logo_description": "\u0935\u093f\u0936\u0947\u0937\u091c\u094d\u091e \u0930 \u0905\u092d\u093f\u092d\u093e\u0935\u0915\u0939\u0930\u0942\u092c\u093e\u091f \u0938\u0941\u091d\u093e\u0935", 
+  "image_host": "http://thumbor.unicore.io"
 }
